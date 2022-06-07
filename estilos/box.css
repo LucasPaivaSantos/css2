@@ -12,6 +12,9 @@ div {
 
 #paçoquinha {
   background-color:#197e57;
+  position: fixed;
+  top: 0px;
+  left: 0px;
 }
 #rapadura {
   background-color: #b45252;
