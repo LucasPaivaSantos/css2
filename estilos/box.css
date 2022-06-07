@@ -1,7 +1,7 @@
 div {
   background-color: #282c34;
   color: #f8f9fc;
-  display: inline-block;
+  display: block;
   width: 244px;
   height: 84px;
   overflow: auto;
@@ -17,4 +17,8 @@ div {
 #rapadura {
   background-color: #b45252;
   padding: 24px 12px 6px 3px;
+  float: right; 
+}
+#churros {
+  float: right;
 }
