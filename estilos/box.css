@@ -7,7 +7,6 @@ div {
   overflow: auto;
   padding: 12px;
   border: solid 2px #ff0000;
-  margin: 12px;
   box-sizing: border-box;
 }
 
@@ -16,9 +15,12 @@ div {
 }
 #rapadura {
   background-color: #b45252;
-  padding: 24px 12px 6px 3px;
-  float: right; 
+  position: absolute;
+  opacity: 1.0;
+  top: 0px;
+  left: 0px;
+
 }
 #churros {
-  float: right;
+  background-color: rgb(136, 129, 230);
 }
