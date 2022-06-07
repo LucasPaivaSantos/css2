@@ -12,7 +12,7 @@ div {
 
 #paçoquinha {
   background-color:#197e57;
-  position: fixed;
+  position: sticky;
   top: 0px;
   left: 0px;
 }
