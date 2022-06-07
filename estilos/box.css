@@ -15,8 +15,8 @@ div {
 }
 #rapadura {
   background-color: #b45252;
-  position: absolute;
   opacity: 1.0;
+  position: relative;
   top: 0px;
   left: 0px;
 
