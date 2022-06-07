@@ -1,9 +1,14 @@
 div {
   background-color: #282c34;
   color: #f8f9fc;
-  display: block;
+  display: inline-block;
   width: 244px;
-  height: 120px;
+  height: 84px;
+  overflow: auto;
+  padding: 12px;
+  border: solid 2px #ff0000;
+  margin: 12px;
+  box-sizing: border-box;
 }
 
 #paçoquinha {
@@ -11,4 +16,5 @@ div {
 }
 #rapadura {
   background-color: #b45252;
+  padding: 24px 12px 6px 3px;
 }
